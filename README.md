@@ -40,5 +40,6 @@ git push -u origin branch3 -> pour le push vers le github
 
 
 ## return in terminal
-    1. git branch main
+    1. git checkout main
     2. git branch -d branch3
+    3. git pull
