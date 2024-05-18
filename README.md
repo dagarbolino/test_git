@@ -25,4 +25,7 @@ git checkout  puis le npm de la branch  -> pour changer de branch
 git checkout -b branch3
 git status -> exemple : READEME.md en rouge
 git add README.md
+git status -> le README.md en vert
+git commit -m "new commit in branch3"
+
 
