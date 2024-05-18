@@ -28,4 +28,18 @@ git add README.md
 git status -> le README.md en vert
 git commit -m "new commit in branch3"
 
+git push -u origin branch3 -> pour le push vers le github
 
+## Nous allons sur le github
+    1. Click sur Compare & pull request
+    2. Ajouter une description à ce code qui est publié sur cette branch
+    3. Click Create pull request
+    4. Click Merge pull request, and add comment
+    5. Click Confirm merge 
+    6. And If Delete branch Click
+
+
+## return in terminal
+    1. git checkout main
+    2. git branch -d branch3
+    3. git pull
